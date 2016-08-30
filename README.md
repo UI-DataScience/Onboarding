@@ -12,20 +12,22 @@ You will do most of your work on NCSA Nebula VM. Once you join the group, our ju
 It is usually password protected.
 
 ###Website:
-We have a group website. Check here:  https://github.com/UI-DataScience/New_Website/tree/gh-pages
+We have a group website. Check here:  
+https://data.illinois.edu
 Please submit this survey: https://docs.google.com/forms/d/e/1FAIpQLScyAOot7DOOzqbZe02nOi3nnDbU36VLF3fSlL-toVp-Qf2_iA/viewform
 Then email your profile picture to Tyler, our almighty webmaster, here:  tkim139@illinois.edu
 Your picture and name will appear on the website shortly after.
 
 
 ###Meetings:
-We have weekly meetings. Both graduate meeting and undergraduate meeting are on Friday.
-Undergraduates, feel free to crash the grad meeting if you are unable to attend the undergrad meeting.
-Also if you need to leave early, say so that we can discuss your work before others.
-If there has been changes to the meeting time, email will be sent to you at least by Friday morning.
+Fall 2016:
+We have weekly meetings. This semester we are having both graduate meeting and undergraduate meeting at the same time.
 
-During the Spring semester of 2016, Grad meeting was from 9:30am-11am.
-Undergrad meeting was from 12:30pm to 2pm.
+In the Spring semester of 2016, the general meeting time is from 9:30am to 11am on every Thursday unless noted otherwise.
+
+Also if you need to leave early, say so that we can discuss your work before others.
+If there has been changes to the meeting time, email will be sent to you at least by Thursday morning.
+
 
 ###Things you should keep in mind:
 1. Check Will section below
